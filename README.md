@@ -50,4 +50,4 @@ $ cd reduxapp
 
 ## License
 
-[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/NFT-app/blob/main/LICENSE)
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/reactredux/blob/main/LICENSE)
