@@ -25,7 +25,6 @@
 | ---------- | ---------------------------------------------------- |
 | React.js   | JavaScript library                                   |
 | Redux      | is a predictable state container for JavaScript apps |
-|  |
 
 ## Features
 
