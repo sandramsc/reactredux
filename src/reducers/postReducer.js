@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import { FETCH_POSTS, NEW_POST } from "../actions/types";
 
 const initialState = {
